@@ -1,0 +1,1 @@
+This personal-use tool accesses Google Drive files and folders to transfer research data between my Drive and UCL account. Downloaded copies are stored in my UCL project storage, accessible to me and authorised UCL administrators. Access to Google Drive can be revoked at any time through Google Account settings.
